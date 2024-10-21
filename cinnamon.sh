@@ -1,0 +1,1 @@
+sudo pacman -S nvidia-lts nvidia-settings lib32-nvidia-utils nvtop gnome-system-monitor gnome-disk-utility vim lutris wine wine-gecko wine-mono gst-libav gst-plugins-ugly totem vlc gvfs-mtp neofetch os-prober qbittorrent steam 
